@@ -16,7 +16,7 @@ Within my resume and LinkedIn profile, you will see that I have completed severa
 ### Under Construction: What's Currently in the Pipeline
 I've built numerous projects, many of which are in the Machine Learning arena; however, publishing my code is brand new to me. In the coming weeks, I will be posting
 repositories containing these projects. I want to ensure that when these repositories are posted, the files are arranged in such a way that they may be useful for
-others working on similar projects. Here are some projects that have already been posted or will be coming soon:
+others working on similar projects. In the meantime, if you'd like to see some of the code I've written or models I've built, please reach out! I'd  be happy to give you an early showcase! Here are some projects that have already been posted or will be coming soon to my profile:
 
 * A Perceptron Classifier - To showcase the humble, early days of my Machine Learning Journey
 * A Linear Regression Algorithm featuring Stochastic Gradient Descent (SGD)
